@@ -18,7 +18,7 @@
 
 ## アドオンの一覧について
 githubの機能であるpage作成機能を用いて一覧を大まかに作成いたしました、現在の所画像のみまとめております。  
-[YIC Platform Extend Documents - gh-pages](https://myagami.github.io/wa_Platform_Extends/)
+[YIC Platform Extend Documents - gh-pages](https://cygnuskaren.github.io/wa_Platform_Extends/)
 (※2021/08/14 追記:更新が全く追いついていません、リポジトリのファイルから察してください)
 
 ## 使い方について
