@@ -9,8 +9,8 @@ enables_pax=1
 level=3
 waytype=track
 needs_ground=1
-cursor=footbridge-1.2.1
-icon=> footbridge-1.2.0
+cursor=footbridge-OverRide.2.1
+icon=> footbridge-OverRide.2.0
 
 backImage[0][0][0][0][0][0]=footbridge-OverRide.0.0
 backImage[1][0][0][0][0][0]=footbridge-OverRide.0.2
